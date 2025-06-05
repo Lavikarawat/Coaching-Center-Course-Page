@@ -3,7 +3,7 @@
 This is a single-page course website I built for a local coaching center. It presents course information in a clean, structured, and responsive layout using **HTML5** and **CSS3**.
 
 ## 🌐 Live Preview
-(http://127.0.0.1:5502/course.html)
+(http://127.0.0.1:5500/course.html))
 
 ## 📌 Features
 - Clean and professional course layout
